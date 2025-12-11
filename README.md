@@ -50,7 +50,7 @@ safe-code-executor/
 
     pip install -r requirements.txt
     
-    ![requrements](https://github.com/user-attachments/assets/784779c1-7ff4-4aeb-a833-004d88aad07c)
+![requrements](https://github.com/user-attachments/assets/784779c1-7ff4-4aeb-a833-004d88aad07c)
 
 
 3️⃣ Run the server
