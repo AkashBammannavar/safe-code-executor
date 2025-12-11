@@ -57,14 +57,14 @@ safe-code-executor/
 
     python server.py
 
-    ![torun](https://github.com/user-attachments/assets/b18865be-eb06-4fbf-bb99-d34ebfdd9b21)
+![torun](https://github.com/user-attachments/assets/b18865be-eb06-4fbf-bb99-d34ebfdd9b21)
 
 
 4️⃣ Open browser
 
    http://127.0.0.1:5000
 
-   ![torunpython](https://github.com/user-attachments/assets/6f8f327e-903a-4762-bb21-bb7e9b4a8a06)
+![torunpython](https://github.com/user-attachments/assets/6f8f327e-903a-4762-bb21-bb7e9b4a8a06)
 
 
 🔌 API Usage
@@ -79,11 +79,11 @@ Send Python code as JSON.
     }
 
 
-  ![t2](https://github.com/user-attachments/assets/8fca251b-84ab-444d-b48a-498097f374ca)
+ ![t2](https://github.com/user-attachments/assets/8fca251b-84ab-444d-b48a-498097f374ca)
 
 2.
 
-    ![T3](https://github.com/user-attachments/assets/0a1d9826-15c9-4016-8d7e-6021dd43b265)
+  ![T3](https://github.com/user-attachments/assets/0a1d9826-15c9-4016-8d7e-6021dd43b265)
 
 
 🔐 Security Implementations
@@ -109,25 +109,25 @@ Send Python code as JSON.
                                   pass
 
     
-    ![tt1](https://github.com/user-attachments/assets/99bda2fd-a012-4b80-aa3d-b44f8cea09f1)
+![tt1](https://github.com/user-attachments/assets/99bda2fd-a012-4b80-aa3d-b44f8cea09f1)
 
 
 Memory Attack Blocked
 
-    ![t4](https://github.com/user-attachments/assets/e402424d-62ea-456a-a584-64b0786f3756)
+![t4](https://github.com/user-attachments/assets/e402424d-62ea-456a-a584-64b0786f3756)
 
 Network Blocked
 
-    ![t5](https://github.com/user-attachments/assets/bb29e9fe-d46c-4467-ba8d-44f023ebf918)
+![t5](https://github.com/user-attachments/assets/bb29e9fe-d46c-4467-ba8d-44f023ebf918)
 
 
 Write Protection
 
-    ![t5](https://github.com/user-attachments/assets/9bc00f79-b20b-4314-a9c5-b5778c02cb82)
+![t5](https://github.com/user-attachments/assets/9bc00f79-b20b-4314-a9c5-b5778c02cb82)
 
 Read Test
 
-    ![T6](https://github.com/user-attachments/assets/ac0522c4-c1f8-4d1c-83a3-54207700187d)
+![T6](https://github.com/user-attachments/assets/ac0522c4-c1f8-4d1c-83a3-54207700187d)
 
 📘 What I Learned
 
